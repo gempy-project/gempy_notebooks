@@ -1,0 +1,5 @@
+,isFault,isFinite
+Default series,True,False
+younger_serie,False,False
+older_serie,False,False
+Basement,False,False

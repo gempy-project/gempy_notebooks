@@ -1,0 +1,8 @@
+,surface,series,order_surfaces,isBasement,isFault,isActive,color,vertices,edges,sfai,id
+7,fault2,fault_series2,1,False,True,True,#015482,,,-0.47495906168333124,1
+5,fault1,fault_series1,1,False,True,True,#9f0052,,,0.7158556803582692,2
+6,rock4,series1,1,False,False,True,#ffbe00,,,0.7187368546774646,3
+0,rock3,series1,2,False,False,True,#728f02,,,0.6562355805263289,4
+3,rock2,series1,3,False,False,True,#443988,,,0.5937331094430043,5
+1,rock1,series1,4,False,False,True,#ff3f20,,,0.5312325723578455,6
+4,basement,basement_series,1,True,False,True,#325916,,,,7

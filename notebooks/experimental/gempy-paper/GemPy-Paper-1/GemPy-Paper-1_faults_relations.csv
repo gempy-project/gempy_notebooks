@@ -1,0 +1,5 @@
+,Default series,younger_serie,older_serie,Basement
+Default series,False,True,True,True
+younger_serie,False,False,False,False
+older_serie,False,False,False,False
+Basement,False,False,False,False
